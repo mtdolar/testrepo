@@ -1,3 +1,3 @@
 # testrepo
-##just getting started
+## just getting started
 I am practicing making a repository in github.
